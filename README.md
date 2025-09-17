@@ -1,6 +1,9 @@
 # Lighter Tracker 2.0
 **Logo Lighter Tracker** <!-- Substitua por um logo real ou imagem de isqueiro -->
 
+![Análise de Dados](/workspaces/Lighter-Tracker-2.0---An-lise-de-Dados-e-Previs-o-de-Perdas/Dashboard_PowerBI.jpg)
+
+
 **Prevendo Perdas de Isqueiros com Machine Learning e Visualizações no Power BI**
 
 O **Lighter Tracker 2.0** é um aplicativo inovador que prevê quando você provavelmente perderá seu isqueiro (inspirado no meu próprio Bic laranja perdido!) usando um modelo de regressão logística (F1-Score 72%) e dashboards vibrantes no Power BI.  
