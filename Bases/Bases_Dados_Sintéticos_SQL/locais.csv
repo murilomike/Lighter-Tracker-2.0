@@ -1,0 +1,23 @@
+id_cidade,nome_local,tipo_local,latitude,longitude,id_local
+10,Chácara de Moreira,Público,-16.381199,-67.179035,1
+13,Esplanada de Sampaio,Público,-32.113504,-36.044579,2
+2,Lagoa Silva,Residência,-5.996671,-41.664106,3
+3,Lago Natália Guerra,Comércio,-25.166201,-70.093115,4
+14,Residencial de Mendes,Público,-14.157242,-56.3939,5
+2,Estrada de Porto,Residência,-30.460891,-54.192924,6
+15,Chácara Maria Flor Rios,Residência,-33.002733,-37.627184,7
+2,Pátio Levi da Cruz,Residência,-26.495381,-47.499109,8
+15,Viaduto Erick Vasconcelos,Público,-24.960379,-53.197279,9
+5,Setor Marques,Residência,-18.145402,-66.605822,10
+11,Rua de Pacheco,Público,-5.882046,-42.994687,11
+6,Colônia Caleb Fernandes,Residência,-6.754531,-38.206906,12
+15,Campo Freitas,Público,-16.660901,-37.125031,13
+6,Jardim Elisa Alves,Público,-31.433717,-66.160686,14
+3,Alameda de Pacheco,Residência,-32.688409,-60.986787,15
+7,Favela Heitor Rocha,Público,-22.728359,-63.146039,16
+1,Via de Guerra,Público,-9.966612,-59.729867,17
+6,"Praça Otávio Macedo
+Vila Piratininga
+12943-040 Pacheco / MS",Residência,-25.852899,-52.292157,18
+11,Vale de Cirino,Residência,-29.913197,-41.912121,19
+15,Quadra Freitas,Público,-31.838031,-34.524523,20

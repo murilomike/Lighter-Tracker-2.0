@@ -1,0 +1,21 @@
+id_marca,id_categoria,nome_isqueiro,cor,material,tipo_combustivel,preco_medio,id_isqueiro
+2,2,Zippo Mini,Rosa,Metal,Butano,86.83,1
+2,1,Zippo Mini,Verde,Metal,Butano,128.45,2
+3,2,Clipper Tocha,Preto,Plástico,Fluido,9.45,3
+4,3,Flamagas Personalizado,Vermelho,Plástico,Gás,2.61,4
+1,1,Bic Mini,Dourado,Plástico,Gás,5.4,5
+3,3,Clipper Mini,Preto,Plástico,Fluido,2.63,6
+3,3,Clipper Mini,Dourado,Plástico,Fluido,2.84,7
+1,2,Bic Tocha,Rosa,Plástico,Gás,9.48,8
+2,3,Zippo Standard,Azul,Metal,Butano,112.68,9
+4,1,Flamagas Mini,Verde,Plástico,Fluido,3.63,10
+1,2,Bic Tocha,Amarelo,Plástico,Butano,1.53,11
+4,4,Flamagas Mini,Rosa,Plástico,Gás,6.19,12
+2,2,Zippo Personalizado,Amarelo,Alumínio,Gás,145.47,13
+3,1,Clipper Tocha,Preto,Plástico,Butano,4.6,14
+2,4,Zippo Standard,Preto,Alumínio,Gás,160.03,15
+2,2,Zippo Tocha,Verde,Metal,Butano,185.77,16
+2,4,Zippo Mini,Prata,Metal,Gás,112.02,17
+2,3,Zippo Tocha,Preto,Alumínio,Gás,177.99,18
+1,4,Bic Tocha,Azul,Plástico,Gás,7.11,19
+3,4,Clipper Tocha,Laranja,Plástico,Gás,4.48,20

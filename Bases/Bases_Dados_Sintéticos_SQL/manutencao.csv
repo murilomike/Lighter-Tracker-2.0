@@ -1,0 +1,101 @@
+id_isqueiro_usuario,data_manutencao,tipo_manutencao,custo,local_manutencao,id_manutencao
+27,2025-09-11,Recarga de gás,29.71,Barbosa e Filhos,1
+15,2025-09-11,Troca de pedra,34.0,Barbosa,2
+11,2025-09-11,Troca de pedra,17.5,Cassiano - EI,3
+40,2025-09-11,Reparo,36.55,Borges e Filhos,4
+4,2025-09-11,Reparo,14.3,Barbosa e Filhos,5
+1,2025-09-11,Recarga de gás,38.77,Cassiano - EI,6
+25,2025-09-11,Troca de pedra,14.59,Farias,7
+25,2025-09-11,Reparo,27.37,Barbosa e Filhos,8
+10,2025-09-11,Troca de pedra,49.92,Fonseca Ltda.,9
+27,2025-09-11,Recarga de gás,13.9,Fonseca Ltda.,10
+15,2025-09-11,Troca de pedra,6.97,Farias,11
+20,2025-09-11,Recarga de gás,17.35,Câmara Ltda.,12
+10,2025-09-11,Limpeza,41.62,Araújo,13
+1,2025-09-11,Reparo,28.64,da Rocha,14
+11,2025-09-11,Troca de pedra,8.28,Borges e Filhos,15
+5,2025-09-11,Reparo,27.3,Barbosa,16
+25,2025-09-11,Troca de pedra,48.78,Machado Monteiro Ltda.,17
+3,2025-09-11,Reparo,22.03,Araújo,18
+6,2025-09-11,Reparo,28.89,Almeida - ME,19
+94,2025-09-11,Reparo,14.39,Fonseca Ltda.,20
+10,2025-09-11,Reparo,18.08,Barbosa e Filhos,21
+3,2025-09-11,Troca de pedra,27.84,Barbosa,22
+3,2025-09-11,Limpeza,35.26,Fonseca Ltda.,23
+20,2025-09-11,Limpeza,16.42,da Rocha,24
+10,2025-09-11,Limpeza,12.74,Fonseca Ltda.,25
+25,2025-09-11,Recarga de gás,20.68,Câmara Ltda.,26
+15,2025-09-11,Limpeza,38.52,Almeida - ME,27
+94,2025-09-11,Recarga de gás,28.45,Ferreira,28
+94,2025-09-11,Recarga de gás,39.72,da Mata,29
+25,2025-09-11,Troca de pedra,34.68,Machado Monteiro Ltda.,30
+20,2025-09-11,Reparo,25.31,Porto Novaes - ME,31
+94,2025-09-11,Recarga de gás,43.78,Machado Monteiro Ltda.,32
+10,2025-09-11,Recarga de gás,31.55,Melo Marques - EI,33
+6,2025-09-11,Limpeza,18.13,Ferreira,34
+11,2025-09-11,Limpeza,33.44,Cassiano - EI,35
+27,2025-09-11,Recarga de gás,46.17,Barbosa,36
+27,2025-09-11,Troca de pedra,16.33,Porto Novaes - ME,37
+40,2025-09-11,Reparo,27.29,Fonseca Ltda.,38
+10,2025-09-11,Recarga de gás,20.51,Cassiano - EI,39
+28,2025-09-11,Limpeza,20.66,Farias,40
+20,2025-09-11,Troca de pedra,47.5,Almeida - ME,41
+94,2025-09-11,Reparo,16.65,Almeida - ME,42
+25,2025-09-11,Recarga de gás,39.86,Fonseca Ltda.,43
+10,2025-09-11,Reparo,39.48,Barbosa e Filhos,44
+3,2025-09-11,Reparo,7.95,Araújo,45
+1,2025-09-11,Reparo,19.5,da Mata,46
+1,2025-09-11,Reparo,45.52,Cassiano - EI,47
+15,2025-09-11,Recarga de gás,6.35,Barbosa e Filhos,48
+3,2025-09-11,Reparo,45.7,Ferreira,49
+25,2025-09-11,Recarga de gás,13.11,Porto Novaes - ME,50
+10,2025-09-11,Reparo,20.17,Melo Marques - EI,51
+27,2025-09-11,Reparo,22.6,Araújo,52
+94,2025-09-11,Troca de pedra,46.44,Ferreira,53
+3,2025-09-11,Limpeza,19.47,Barbosa e Filhos,54
+15,2025-09-11,Reparo,32.51,da Rocha,55
+28,2025-09-11,Limpeza,36.02,Borges e Filhos,56
+20,2025-09-11,Recarga de gás,31.91,Barbosa e Filhos,57
+3,2025-09-11,Reparo,38.39,Farias,58
+10,2025-09-11,Recarga de gás,28.0,Araújo,59
+1,2025-09-11,Recarga de gás,21.82,Barbosa e Filhos,60
+3,2025-09-11,Troca de pedra,15.16,Almeida - ME,61
+15,2025-09-11,Reparo,36.86,Melo Marques - EI,62
+10,2025-09-11,Troca de pedra,10.8,Melo Marques - EI,63
+20,2025-09-11,Limpeza,48.2,Machado Monteiro Ltda.,64
+23,2025-09-11,Recarga de gás,24.17,Barbosa,65
+10,2025-09-11,Recarga de gás,27.66,Borges e Filhos,66
+10,2025-09-11,Reparo,25.96,Borges e Filhos,67
+1,2025-09-11,Limpeza,32.7,Melo Marques - EI,68
+27,2025-09-11,Troca de pedra,34.28,Araújo,69
+27,2025-09-11,Recarga de gás,9.2,Machado Monteiro Ltda.,70
+3,2025-09-11,Troca de pedra,35.88,Câmara Ltda.,71
+3,2025-09-11,Recarga de gás,42.68,Barbosa e Filhos,72
+1,2025-09-11,Troca de pedra,19.98,da Rocha,73
+10,2025-09-11,Reparo,17.69,Cassiano - EI,74
+15,2025-09-11,Recarga de gás,43.31,Araújo,75
+45,2025-09-11,Limpeza,12.16,Fonseca Ltda.,76
+20,2025-09-11,Limpeza,46.56,Farias,77
+27,2025-09-11,Reparo,35.14,Barbosa e Filhos,78
+25,2025-09-11,Reparo,23.4,da Rocha,79
+20,2025-09-11,Troca de pedra,38.97,Ferreira,80
+15,2025-09-11,Recarga de gás,49.33,Porto Novaes - ME,81
+25,2025-09-11,Reparo,14.17,Porto Novaes - ME,82
+27,2025-09-11,Limpeza,42.77,da Rocha,83
+15,2025-09-11,Limpeza,17.89,Almeida - ME,84
+32,2025-09-11,Recarga de gás,28.44,Farias,85
+5,2025-09-11,Limpeza,32.46,Borges e Filhos,86
+3,2025-09-11,Recarga de gás,19.21,Cassiano - EI,87
+15,2025-09-11,Limpeza,37.02,Ferreira,88
+11,2025-09-11,Reparo,8.57,Farias,89
+20,2025-09-11,Troca de pedra,35.37,da Rocha,90
+94,2025-09-11,Recarga de gás,30.87,Barbosa e Filhos,91
+15,2025-09-11,Reparo,49.9,Barbosa,92
+1,2025-09-11,Troca de pedra,44.22,Barbosa,93
+15,2025-09-11,Limpeza,14.85,Barbosa e Filhos,94
+2,2025-09-11,Troca de pedra,37.54,Araújo,95
+27,2025-09-11,Limpeza,16.72,Araújo,96
+27,2025-09-11,Reparo,7.42,Melo Marques - EI,97
+94,2025-09-11,Reparo,7.12,Ferreira,98
+20,2025-09-11,Limpeza,26.76,Barbosa,99
+3,2025-09-11,Limpeza,39.89,da Mata,100

@@ -1,0 +1,16 @@
+id_estado,nome_cidade,latitude,longitude,id_cidade
+1,Casa Grande Grande,-23.138337,-35.971428,1
+1,Abreu,-12.772176,-50.053661,2
+1,Ribeiro Verde,-29.475459,-67.760219,3
+1,Viana dos Dourados,-32.315575,-39.352954,4
+2,da Mota,-16.567665,-45.677097,5
+2,Oliveira de da Mata,-33.40305,-35.203606,6
+3,Costa,-9.859163,-65.506436,7
+3,Albuquerque Grande,-28.727076,-66.66382,8
+4,Pastor,-25.176975,-53.009743,9
+4,da Cruz,-21.473594,-62.350834,10
+4,Pereira de Goiás,-16.256266,-68.420246,11
+4,da Cunha,-25.527805,-59.345526,12
+5,da Rosa Verde,-20.77397,-42.592962,13
+5,Melo,-28.20946,-53.430622,14
+5,Pacheco,-16.819978,-72.141983,15

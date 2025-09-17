@@ -1,0 +1,16 @@
+id_cidade,nome_estabelecimento,tipo_comercio,endereco,id_estabelecimento
+15,Fonseca Ltda.,Loja Online,"Lagoa Henrique Brito, 40",1
+3,Borges e Filhos,Tabacaria,"Alameda Ana Lívia Costela, 261",2
+5,Farias,Distribuidora,"Núcleo Anthony Melo, 42",3
+10,Melo Marques - EI,Supermercado,"Passarela Rafael Alves, 200",4
+12,Câmara Ltda.,Padaria,"Quadra de Souza, 9",5
+7,Barbosa,Tabacaria,"Fazenda Araújo, 3",6
+9,Barbosa e Filhos,Supermercado,"Trevo Porto, 83",7
+15,da Mata,Tabacaria,"Recanto de Souza, 21",8
+5,da Rocha,Distribuidora,"Sítio da Mota, 47",9
+7,Almeida - ME,Distribuidora,Morro Moreira,10
+15,Cassiano - EI,Padaria,"Aeroporto Bryan Marques, 12",11
+11,Machado Monteiro Ltda.,Padaria,"Lagoa Silveira, 81",12
+12,Porto Novaes - ME,Padaria,"Condomínio Diogo da Cunha, 79",13
+4,Ferreira,Supermercado,"Trecho de Novais, 170",14
+2,Araújo,Loja Online,"Favela Cunha, 1",15
