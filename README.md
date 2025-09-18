@@ -1,7 +1,14 @@
 # Lighter Tracker 2.0
 **Logo Lighter Tracker** <!-- Substitua por um logo real ou imagem de isqueiro -->
 
+<center>
+
 ![Análise de Dados](/workspaces/Lighter-Tracker-2.0---An-lise-de-Dados-e-Previs-o-de-Perdas/Dashboard_PowerBI.jpg)
+
+![Prototipo](/workspaces/Lighter-Tracker-2.0---An-lise-de-Dados-e-Previs-o-de-Perdas/Prototipos/sistema_usuário.jpg)
+
+
+</center>
 
 
 **Prevendo Perdas de Isqueiros com Machine Learning e Visualizações no Power BI**
