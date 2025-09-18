@@ -1,9 +1,9 @@
 # Lighter Tracker 2.0
-**Logo Lighter Tracker** <!-- Substitua por um logo real ou imagem de isqueiro -->
+
 
 <center>
 
-
+![Logo Lighter Tracker](https://github.com/murilomike/Lighter-Tracker-2.0/blob/main/Prototipos/sistema_usu%C3%A1rio.jpg)
 
 </center>
 
@@ -16,21 +16,11 @@ Construído com **Python, Pandas, scikit-learn e Faker**, ele rastreia padrões 
 Da minha história pessoal de perder isqueiros em piqueniques a insights acionáveis para usuários e lojistas, este projeto mostra ciência de dados ponta a ponta: geração de dados sintéticos, modelagem em ML e visualizações interativas.
 
 ---
+## LINKS
 
-## 📑 Sumário
-- [Background](#background)  
-- [Features](#features)  
-- [Tech Stack](#tech-stack)  
-- [Dataset](#dataset)  
-- [Machine Learning Model](#machine-learning-model)  
-- [Power BI Visualizations](#power-bi-visualizations)  
-- [Installation and Setup](#installation-and-setup)  
-- [How to Run](#how-to-run)  
-- [Results and Insights](#results-and-insights)  
-- [Future Improvements](#future-improvements)  
-- [Author](#author)  
-- [License](#license)  
-
+### [DASHBOARD NO POWERBI](https://app.powerbi.com/view?r=eyJrIjoiNDQyZjBlYTEtZDQzYS00NGVkLWI4NDgtZDkwOGY3NDFiOTg5IiwidCI6IjEwMmNkOTJhLTE3ZjctNDlmYi1hYzJlLTZhMzc0YWIzNzk3NiJ9)
+### [MEU PORTFÓLIO](https://lightertracker-ypqxmlg.gamma.site/)
+### [PROTÓTIPO DA APLICAÇÃO](https://spark-wise-habit.lovable.app/)
 ---
 
 ## 🔎 Background
@@ -115,7 +105,7 @@ Notebook: `lighter_tracker_ml.ipynb`.
 
 ---
 
-## 📊 Power BI Visualizations
+## 📊 Power BI 
 **Dashboards interativos** com o dataset `base_powerbi_apresentacao_limpa.csv`:  
 - **Barras:** Usos/Perdas por gênero e fumantes.  
 - **Pizza:** Perdas por tipo_usuario (Fumante vs. Avulso).  
@@ -125,4 +115,5 @@ Notebook: `lighter_tracker_ml.ipynb`.
 - **Slicers:** local, mes_ano para filtros dinâmicos.  
 
 ---
+![Logo Lighter Tracker](https://github.com/murilomike/Lighter-Tracker-2.0/blob/main/Dashboard_PowerBI.jpg)
 
