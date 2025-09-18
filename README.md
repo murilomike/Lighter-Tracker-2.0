@@ -3,9 +3,6 @@
 
 <center>
 
-![Análise de Dados](/workspaces/Lighter-Tracker-2.0---An-lise-de-Dados-e-Previs-o-de-Perdas/Dashboard_PowerBI.jpg)
-
-![Prototipo](/workspaces/Lighter-Tracker-2.0---An-lise-de-Dados-e-Previs-o-de-Perdas/Prototipos/sistema_usuário.jpg)
 
 
 </center>
